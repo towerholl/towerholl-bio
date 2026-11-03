@@ -6,8 +6,8 @@ const Bio = () => {
     bio: "Tech enthusiast and creative builder. Passionate about web development, open-source, and digital design.",
     skills: [ "C#/C++", "UI/UX", "Godot"],
     links: [
-      { name: "Tiktok", url: "#" },
-      { name: "Telegram-channel", url: "#" }
+      { name: "Tiktok", url: "https://www.tiktok.com/@iamthethirdwheel?" },
+      { name: "Telegram-channel", url: "https://t.me/Killerofadeadgod" }
     ]
   };
 
